@@ -1,0 +1,20 @@
+.pokemon_container{
+    width: 200px;
+    padding: 20px;
+    margin: 5px;
+    border: solid;
+    border-radius: 30px;
+
+}
+
+.pokemon_names{
+    padding-left: 30px;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+
+.pokemon_img{
+    width: 96px;
+    height: 96px;
+    padding-left: 40px;
+}
